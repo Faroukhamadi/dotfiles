@@ -1,0 +1,1 @@
+/home/faroukhamadi/.bashrc
